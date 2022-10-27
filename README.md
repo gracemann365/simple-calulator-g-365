@@ -1,4 +1,4 @@
-# simple-calulator-g-365
+# simple-calulator (Tkinter-gui toolkit)
  a simple maiden mini project
  made with python & python bound tk gui tool kit known as Tkinter
  
